@@ -1,0 +1,10 @@
+Fever is a temporary rise in body temperature. Treatment includes rest, hydration and paracetamol.
+Cold is a viral infection causing runny nose and sneezing. Treatment includes steam inhalation and fluids.
+Headache is often caused by stress or dehydration. Treatment includes rest and hydration.
+Diabetes is a chronic disease affecting blood sugar. Managed by insulin, diet and exercise.
+Hypertension means high blood pressure. Managed by lifestyle changes and medication.
+Asthma causes breathing difficulty due to airway inflammation. Treated using inhalers.
+Back pain occurs due to posture or strain. Managed with physiotherapy and rest.
+Allergy is an immune reaction causing sneezing and itching. Antihistamines help.
+COVID-19 is a respiratory viral disease. Vaccination is recommended.
+Stomach pain may be caused by gas or infection. Use antacids and hydration.
